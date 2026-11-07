@@ -1,0 +1,16 @@
+{
+  "name": "How AI Chips Work · IT Translation",
+  "short_name": "AI Chips",
+  "description": "Listening và dịch Việt → Anh: How AI Chips Work (WSJ) · ITTR330336",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f1ea",
+  "theme_color": "#0b3d91",
+  "lang": "vi",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}

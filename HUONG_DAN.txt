@@ -1,0 +1,21 @@
+APP HỌC DỊCH · How AI Chips Work (ITTR330336)
+
+1. Đăng lên GitHub Pages
+   - Tạo repository mới (ví dụ: ai-chips-app), tải TẤT CẢ các file trong thư mục này lên (giữ nguyên tên file).
+   - Settings → Pages → Source: "Deploy from a branch" → Branch: main, thư mục / (root) → Save.
+   - Sau 1–2 phút, link có dạng: https://<tên-tài-khoản>.github.io/ai-chips-app/
+   - Gửi link (hoặc mã QR của link) cho sinh viên.
+
+2. Sinh viên cài app
+   - iPhone: mở link bằng Safari → nút Chia sẻ → "Thêm vào MH chính".
+   - Android: mở bằng Chrome → bấm "Cài đặt ngay" trong app, hoặc ⋮ → "Cài đặt ứng dụng".
+   - Muốn xem video khi không có mạng: trang chính → "Tải video về máy".
+
+3. Chế độ giáo viên
+   - Bấm biểu tượng ổ khóa trên thanh tiêu đề, nhập mật khẩu (giống mật khẩu đáp án các học liệu khác của anh).
+   - Mật khẩu nằm trong file index.html (tìm TEACHER_PW) – chỉ để dùng trong lớp, không phải bảo mật thật.
+
+4. Cập nhật bài
+   - Sửa file rồi tải lên lại. Khi sửa sw.js, đổi tên phiên bản (aic-shell-v1 → v2) để máy sinh viên nhận bản mới.
+
+Lưu ý: app cần chạy qua https (GitHub Pages). Mở trực tiếp file index.html trên máy tính vẫn dùng được, nhưng không có chế độ ngoại tuyến.
